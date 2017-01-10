@@ -16,4 +16,7 @@
 4. 브랜치 생성 및 머지
 http://blog.sz21c.com/550
 
+5. About GIT ?
+: https://git-scm.com/book/ko/v2
+
 ★ if you have useful links about UE4, please change Readme.md file!
