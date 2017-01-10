@@ -13,6 +13,7 @@
 3. Standard KOR naver cafe about UnrealEngine4
 : http://cafe.naver.com/unrealenginekr
 
-
+4. 브랜치 생성 및 머지
+http://blog.sz21c.com/550
 
 ★ if you have useful links about UE4, please change Readme.md file!
