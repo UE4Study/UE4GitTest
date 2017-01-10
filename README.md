@@ -5,7 +5,7 @@
 ▶ Git,UE4에 관한 유용한 링크 <br />
 (새탭으로 열기는 쉬프트 + 좌클릭)<br />
 <br />
-1. Toltoise 쓰는 법<br />
+1. ToltoiseGit 쓰는 법<br />
 : http://dltjdgml3.blog.me/220652557039 <br />
 : http://blog.hjf.pe.kr/57 <br />
 <br />
