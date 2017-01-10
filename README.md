@@ -10,7 +10,7 @@
 2. useful a shareslider for SVN user
 : http://www.slideshare.net/einsub/svn-git-17386752
 
-3. Standard KOR navercafe about UnrealEngine4
+3. Standard KOR naver cafe about UnrealEngine4
 : http://cafe.naver.com/unrealenginekr
 
 
