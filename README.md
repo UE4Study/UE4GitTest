@@ -2,9 +2,9 @@
 
 # For Testing UE4 Project using Github
 
-▶ Here are useful Links <br />
-(if you want 'new tab', Click simultaneously shift + Left MouseButton)<br />
-<br /> <br />
+▶ Git,UE4에 관한 유용한 링크 <br />
+(새탭으로 열기는 쉬프트 + 좌클릭)<br />
+<br />
 1. Toltoise 쓰는 법<br />
 : http://dltjdgml3.blog.me/220652557039 <br />
 : http://blog.hjf.pe.kr/57 <br />
@@ -20,5 +20,5 @@ http://blog.sz21c.com/550 <br />
 <br />
 5. Git 문서 ? <br />
 : https://git-scm.com/book/ko/v2 <br />
-<br /> <br /> <br />
-★ if you have useful links about UE4, please change Readme.md file!
+<br /> 
+★ 유용한 링크가 있다면 이 파일을 수정하세요!
