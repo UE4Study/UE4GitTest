@@ -1,7 +1,7 @@
 
 
-# For Testing UE4 Project using Github
-
+# 엔진에 들어가기 앞서 Git을 가지고 놀기 위한 저장소입니다
+<br />
 ▶ Git,UE4에 관한 유용한 링크 <br />
 (새탭으로 열기는 쉬프트 + 좌클릭)<br />
 <br />
