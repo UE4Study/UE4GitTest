@@ -2,7 +2,7 @@
 
 # For Testing UE4 Project using Github
 
-▶ Here are useful Links
+▶ Here are useful Links (if you want 'new tab', Click simultaneously shift + Left MouseButton)
 
 1. How to use Toltoise git
 : http://dltjdgml3.blog.me/220652557039
