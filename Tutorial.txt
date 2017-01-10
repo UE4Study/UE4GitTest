@@ -1,2 +1,2 @@
-* git 튜토리얼 사이트
+* git Tutorial Site
 https://backlogtool.com/git-guide/kr/intro/intro2_1.html
