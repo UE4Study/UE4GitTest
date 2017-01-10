@@ -12,7 +12,7 @@
 2. SVN 사용자를 위한 GIT 사용법<br />
 : http://www.slideshare.net/einsub/svn-git-17386752 <br />
 <br />
-3. UE4  <br />
+3. UE4 공식 네이버까페 <br />
 : http://cafe.naver.com/unrealenginekr <br />
 <br />
 4. 브랜치 생성 및 머지 <br />
